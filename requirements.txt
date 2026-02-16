@@ -9,3 +9,4 @@ python-multipart
 sentence-transformers
 numpy
 PyMuPDF
+requests
